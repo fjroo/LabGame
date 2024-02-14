@@ -1,3 +1,5 @@
+/* Connor McNurlan & Josh Robb */
+
 * {
     margin: 0;
     padding: 0;
@@ -38,3 +40,5 @@ body {
 .active {
     background-color: hsl(10, 50%, 50);
 }
+
+/* Tested by Josh Robb */
