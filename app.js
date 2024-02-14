@@ -1,3 +1,6 @@
+// Connor McNurlan
+// Josh Robb
+
 const board = [
     [0, 0, 0, 0],
     [0, 0, 0, 0],
